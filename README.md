@@ -8,6 +8,7 @@
 </div>
 
 Aspiring VLSI Engineer passionate about RTL Design, FPGA Development, ASIC Design, Computer Architecture, Processor Design, and Hardware Verification.
+
 ## About Me
 
 
