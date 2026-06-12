@@ -2,7 +2,7 @@
 
 ### Electronics & Communication Engineering Student
 
-Aspiring VLSI Engineer with interests in RTL Design, FPGA Development, ASIC Design, Computer Architecture, and Hardware Verification.
+Aspiring VLSI Engineer with interests in RTL Design, ASIC Design, Computer Architecture, FPGA Development and Hardware Verification.
 
 
 ## About Me
@@ -12,7 +12,7 @@ Aspiring VLSI Engineer with interests in RTL Design, FPGA Development, ASIC Desi
 |---|---|
 |  Education | B.Tech Electronics & Communication Engineering |
 |  University | Nirma University, Gujarat |
-|  Interests | RTL Design, FPGA Development, Computer Architecture, Processor Design, RISC-V, Communication Protocols, NOC |
+|  Interests | RTL Design, Computer Architecture, Processor Design, RISC-V, Communication Protocols, NOC, FPGA Development |
 |  Languages | Verilog HDL, Assembly Language, C |
 |  Tools | Vivado, Quartus II, ModelSim, EDA Playground, Keil |
 
@@ -23,8 +23,8 @@ Aspiring VLSI Engineer with interests in RTL Design, FPGA Development, ASIC Desi
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-5B9BD5)
 ![RTL Design](https://img.shields.io/badge/RTL%20Design-5B9BD5)
 ![FSM Design](https://img.shields.io/badge/FSM%20Design-5B9BD5)
-![FPGA Development](https://img.shields.io/badge/FPGA%20Development-5B9BD5)
 ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-5B9BD5)
+![FPGA Development](https://img.shields.io/badge/FPGA%20Development-5B9BD5)
 ![Hardware Verification](https://img.shields.io/badge/Hardware%20Verification-5B9BD5)
 
 
