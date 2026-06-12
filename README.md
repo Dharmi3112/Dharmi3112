@@ -12,7 +12,7 @@ Aspiring VLSI Engineer passionate about RTL Design, FPGA Development, ASIC Desig
 |  Education | B.Tech Electronics & Communication Engineering |
 |  University | Nirma University, Gujarat |
 |  Interests | RTL Design, Computer Architecture, Processor Design, RISC-V, Communication Protocols, NOC, FPGA Development |
-|  Languages | Verilog HDL, Assembly Language, C |
+|  Languages | Verilog HDL, Assembly Language, C, System Verilog Basics |
 |  Tools | Vivado, Quartus II, ModelSim, EDA Playground, Keil, Cadence Virtuoso, MicroWind |
 
 
