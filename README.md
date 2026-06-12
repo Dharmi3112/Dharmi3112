@@ -1,94 +1,38 @@
-# Hi, I'm Dharmi Patel 👋
+#  Dharmi Patel 
 
 ### Electronics & Communication Engineering Student
 
-Passionate about Digital Design, FPGA Development, Computer Architecture, and Hardware Verification.
+Aspiring VLSI Engineer with interests in RTL Design, FPGA Development, ASIC Design, Computer Architecture, and Hardware Verification.
 
----
 
 ## About Me
 
+
 | | |
 |---|---|
-| 🎓 Education | B.E. Electronics & Communication Engineering |
-| 📍 Location | Ahmedabad, India |
-| 🎯 Interest | Digital Design & FPGA Development |
-| 🔧 Working With | Verilog HDL, Vivado, ModelSim |
-| 🚀 Exploring | RISC-V Processor Design |
-| 📚 Learning | Advanced Computer Architecture |
+|  Education | B.Tech Electronics & Communication Engineering |
+|  University | Nirma University, Gujarat |
+|  Interests | RTL Design, FPGA Development, Computer Architecture, Processor Design, RISC-V, Communication Protocols, NOC |
+|  Languages | Verilog HDL, Assembly Language, C |
+|  Tools | Vivado, Quartus II, ModelSim, EDA Playground, Keil |
 
----
 
-## Technical Skills
 
-### Hardware Design
-- Verilog HDL
-- FPGA Development
-- Digital System Design
-- RTL Design
-- FSM Design
+##  Core Skills
 
-### Protocols
-- SPI
-- I2C
-- UART
-- APB
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-5B9BD5)
+![RTL Design](https://img.shields.io/badge/RTL%20Design-5B9BD5)
+![FSM Design](https://img.shields.io/badge/FSM%20Design-5B9BD5)
+![FPGA Development](https://img.shields.io/badge/FPGA%20Development-5B9BD5)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-5B9BD5)
+![Hardware Verification](https://img.shields.io/badge/Hardware%20Verification-5B9BD5)
 
-### Processor Design
-- Single-Cycle RISC-V
-- Pipelined RISC-V
-- Hazard Detection
-- Forwarding Unit
 
-### Tools
-- Xilinx Vivado
-- ModelSim
-- QuestaSim
-- GTKWave
-- Git & GitHub
+##  Protocols
 
----
+![SPI](https://img.shields.io/badge/SPI-5B9BD5)
+![I2C](https://img.shields.io/badge/I2C-5B9BD5)
+![UART](https://img.shields.io/badge/UART-5B9BD5)
+![APB](https://img.shields.io/badge/APB-5B9BD5)
 
-## Featured Projects
 
-### FPGA-Based I2C Master with EEPROM Interface
-- EEPROM Communication
-- FPGA Implementation
-- Logic Analyzer Validation
-
-### Pipelined RISC-V Processor
-- RV32I Architecture
-- Hazard Detection Unit
-- Forwarding Unit
-
-### Single-Cycle RISC-V Processor
-- 32-bit RV32I Processor
-- Datapath & Control Unit Design
-
-### SPI Protocol Implementation
-- Configurable CPOL/CPHA
-- Multi-Slave Communication
-
-### APB Protocol Implementation
-- Wait-State Generation
-- Back-to-Back Transfers
-
-### UART Protocol Implementation
-- Baud Rate Generator
-- Interrupt Generation
-- Loopback Verification
-
----
-
-## Current Focus
-
-- FPGA-Based System Design
-- Computer Architecture
-- Advanced RISC-V Implementations
-- Hardware Verification
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmi3112&show_icons=true)
